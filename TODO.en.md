@@ -1,0 +1,30 @@
+- Command line tools
+    - [ ] Simplified grep
+    - [ ] Simplified ls/tree
+    - [ ] File search tool
+    - [ ] Todo manager
+    - [ ] JSON formatter
+- Networking
+    - [ ] HTTP Server
+    - [ ] HTTP Client
+    - [ ] Chat room (TCP Socket)
+    - [ ] Proxy server
+- Databases
+    - [ ] Mini SQLite (support CREATE/INSERT/SELECT)
+    - [ ] Key-Value Store
+    - [ ] LSM Tree implementation
+- Systems programming
+    - [ ] Shell (the classic)
+    - [ ] Memory allocator (malloc)
+    - [ ] Thread pool
+    - [ ] Task scheduler
+- Games
+    - Snake
+    - [ ] Tetris
+    - [ ] Pong
+    - [ ] ASCII Roguelike
+- Data structures & algorithms
+    - [ ] HashMap
+    - [ ] Red-Black Tree
+    - [ ] B+ Tree
+    - [ ] Skip List
